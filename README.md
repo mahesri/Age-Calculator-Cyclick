@@ -3,13 +3,12 @@
 
 - Static file hosting Which will provide services in the form of applications that can calculate a person's age. 
 
-Try the service 
+Try the service click link bellow :
 
-[Aplikasi Mengetahui Umur](https://erin-frightened-eagle.cyclic.cloud/)
+-> [Aplikasi Mengetahui Umur](https://erin-frightened-eagle.cyclic.cloud/)
 
 
 This is a basic starter Expressjs app with:
-
 - Logging Middleware
 - Catch-all handler that echoes request info
 
