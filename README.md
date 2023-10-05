@@ -1,10 +1,18 @@
-# Cyclic - Express Hello World
+# Cyclic - Age Calculator 
+
+
+- Static file hosting Which will provide services in the form of applications that can calculate a person's age. 
+
+### Try the service -> ![Aplikasi Mengetahui Umur][https://erin-frightened-eagle.cyclic.cloud/]
+
 
 This is a basic starter Expressjs app with:
 
-- Static file hosting
+- Static file hosting Which will provide services in the form of applications that can calculate a person's age. 
 - Logging Middleware
 - Catch-all handler that echoes request info
+
+
 
 ## Local Quick Start
 
@@ -28,9 +36,4 @@ This is a basic starter Expressjs app with:
   - package.json "main" field defines the entry point file (if missing uses index.js)
   - Entry point starts a server on `process.env.PORT`
 
-## Say Hi
 
-Ask a question or give us a shout out:
-
-- 💌 hello@cyclic.sh
-- 🐣 https://twitter.com/cyclicsoftware
